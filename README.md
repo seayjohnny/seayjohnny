@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<br>
+Welcome to my Github!
+
+<br>
+<br>
+🔗 &nbsp;**Connect with me**
+
+<a href="https://johnny.seay.io" target="blank"><img align="center" src="./icons/seayio-icon.svg" alt="seayio" height="50" width="50" /></a>
 <!--
 **seayjohnny/seayjohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

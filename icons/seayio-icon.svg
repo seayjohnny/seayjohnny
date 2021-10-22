@@ -1,0 +1,18 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="22" width="43" y="1013.450012" x="-409" stroke-width="0" stroke="#FF0000" fill="#56aaff"/>
+  <rect rx="10" id="svg_1" height="336.667008" width="445" y="85.274514" x="33.5" stroke-width="0" stroke="#FF0000" fill="#56aaff"/>
+  <rect rx="10" id="svg_9" height="130.000389" width="445" y="291.941126" x="33.5" stroke-width="0" stroke="#FF0000" fill="#aad4ff"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="175" id="svg_3" y="216.391615" x="53" stroke-width="0" stroke="#FF0000" fill="#ffffff">seay</text>
+  <rect id="svg_10" height="130.000389" width="445" y="264.322084" x="33.5" stroke-width="0" stroke="#FF0000" fill="#aad4ff"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="175" id="svg_4" y="393.941379" x="158.99985" stroke-width="0" stroke="#FF0000" fill="#333333">.io</text>
+ </g>
+</svg>
